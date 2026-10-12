@@ -1,0 +1,13 @@
+user_id,full_name,role,department,hire_date,termination_date,is_system_account
+U01,Thandi Mokoena,Accounts Payable Clerk,Finance - AP,2021-03-01,,0
+U02,Pieter van Wyk,Accounts Payable Clerk,Finance - AP,2022-08-15,,0
+U03,Lerato Dlamini,Accounts Receivable Clerk,Finance - AR,2020-02-10,,0
+U04,Sipho Nkosi,Accounts Receivable Clerk,Finance - AR,2023-05-02,,0
+U05,Anele Jacobs,Treasury Accountant,Finance - Treasury,2019-09-01,,0
+U06,Michelle Botha,General Ledger Accountant,Finance - GL,2018-01-15,,0
+U07,Kabelo Sithole,Senior Accountant,Finance - GL,2017-06-01,,0
+U08,Johan Pretorius,Financial Controller,Finance - Management,2015-04-01,,0
+U09,Nomsa Khumalo,Chief Financial Officer,Finance - Management,2016-10-01,,0
+U10,Daniel Naidoo,Temporary Accountant,Finance - GL,2025-01-13,2025-06-30,0
+U11,SYSTEM_BATCH,Automated Batch Interface,IT,2015-01-01,,1
+U12,Zanele Mahlangu,Payroll Administrator,HR - Payroll,2019-03-01,,0

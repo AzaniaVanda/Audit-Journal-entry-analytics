@@ -1,0 +1,181 @@
+counterparty_id,counterparty_name,counterparty_type
+V001,Waterberg Tooling (Pty) Ltd,Vendor
+V002,Free State Tooling (Pty) Ltd,Vendor
+V003,Karoo Plastics (Pty) Ltd,Vendor
+V004,Drakensberg Industrial Gases (Pty) Ltd,Vendor
+V005,Waterberg Plastics (Pty) Ltd,Vendor
+V006,Protea Mining Supplies (Pty) Ltd,Vendor
+V007,Karoo Chemicals (Pty) Ltd,Vendor
+V008,Drakensberg Fasteners (Pty) Ltd,Vendor
+V009,Impala Plastics (Pty) Ltd,Vendor
+V010,Waterberg Engineering (Pty) Ltd,Vendor
+V011,Karoo Hardware (Pty) Ltd,Vendor
+V012,Protea Hardware (Pty) Ltd,Vendor
+V013,Kudu Steel Traders (Pty) Ltd,Vendor
+V014,Natal Industrial Gases (Pty) Ltd,Vendor
+V015,Impala Electrical (Pty) Ltd,Vendor
+V016,Bushveld Logistics (Pty) Ltd,Vendor
+V017,Karoo Pumps & Valves (Pty) Ltd,Vendor
+V018,Cape Safety Wear (Pty) Ltd,Vendor
+V019,Baobab Fasteners (Pty) Ltd,Vendor
+V020,Bushveld Pumps & Valves (Pty) Ltd,Vendor
+V021,Free State Plastics (Pty) Ltd,Vendor
+V022,Bushveld Packaging (Pty) Ltd,Vendor
+V023,Protea Chemicals (Pty) Ltd,Vendor
+V024,Natal Safety Wear (Pty) Ltd,Vendor
+V025,Eland Electrical (Pty) Ltd,Vendor
+V026,Drakensberg Logistics (Pty) Ltd,Vendor
+V027,Bushveld Tooling (Pty) Ltd,Vendor
+V028,Eland Logistics (Pty) Ltd,Vendor
+V029,Protea Plastics (Pty) Ltd,Vendor
+V030,Gauteng Packaging (Pty) Ltd,Vendor
+V031,Natal Logistics (Pty) Ltd,Vendor
+V032,Eland Plastics (Pty) Ltd,Vendor
+V033,Springbok Industrial Gases (Pty) Ltd,Vendor
+V034,Drakensberg Steel Traders (Pty) Ltd,Vendor
+V035,Limpopo Pumps & Valves (Pty) Ltd,Vendor
+V036,Impala Safety Wear (Pty) Ltd,Vendor
+V037,Limpopo Engineering (Pty) Ltd,Vendor
+V038,Limpopo Logistics (Pty) Ltd,Vendor
+V039,Natal Hardware (Pty) Ltd,Vendor
+V040,Springbok Tooling (Pty) Ltd,Vendor
+V041,Waterberg Fasteners (Pty) Ltd,Vendor
+V042,Natal Packaging (Pty) Ltd,Vendor
+V043,Natal Chemicals (Pty) Ltd,Vendor
+V044,Limpopo Industrial Gases (Pty) Ltd,Vendor
+V045,Karoo Packaging (Pty) Ltd,Vendor
+V046,Waterberg Industrial Gases (Pty) Ltd,Vendor
+V047,Kudu Electrical (Pty) Ltd,Vendor
+V048,Highveld Pumps & Valves (Pty) Ltd,Vendor
+V049,Gauteng Chemicals (Pty) Ltd,Vendor
+V050,Impala Hardware (Pty) Ltd,Vendor
+V051,Kudu Fasteners (Pty) Ltd,Vendor
+V052,Gauteng Auto Parts (Pty) Ltd,Vendor
+V053,Natal Fasteners (Pty) Ltd,Vendor
+V054,Kudu Chemicals (Pty) Ltd,Vendor
+V055,Cape Packaging (Pty) Ltd,Vendor
+V056,Highveld Steel Traders (Pty) Ltd,Vendor
+V057,Drakensberg Safety Wear (Pty) Ltd,Vendor
+V058,Drakensberg Packaging (Pty) Ltd,Vendor
+V059,Limpopo Chemicals (Pty) Ltd,Vendor
+V060,Karoo Steel Traders (Pty) Ltd,Vendor
+C001,Baobab Chemicals (Pty) Ltd,Customer
+C002,Karoo Safety Wear (Pty) Ltd,Customer
+C003,Eland Plastics (Pty) Ltd,Customer
+C004,Natal Steel Traders (Pty) Ltd,Customer
+C005,Cape Industrial Gases (Pty) Ltd,Customer
+C006,Drakensberg Tooling (Pty) Ltd,Customer
+C007,Impala Chemicals (Pty) Ltd,Customer
+C008,Baobab Electrical (Pty) Ltd,Customer
+C009,Bushveld Packaging (Pty) Ltd,Customer
+C010,Gauteng Industrial Gases (Pty) Ltd,Customer
+C011,Bushveld Logistics (Pty) Ltd,Customer
+C012,Drakensberg Logistics (Pty) Ltd,Customer
+C013,Baobab Logistics (Pty) Ltd,Customer
+C014,Karoo Chemicals (Pty) Ltd,Customer
+C015,Natal Chemicals (Pty) Ltd,Customer
+C016,Kudu Pumps & Valves (Pty) Ltd,Customer
+C017,Eland Engineering (Pty) Ltd,Customer
+C018,Eland Packaging (Pty) Ltd,Customer
+C019,Highveld Engineering (Pty) Ltd,Customer
+C020,Protea Tooling (Pty) Ltd,Customer
+C021,Kudu Mining Supplies (Pty) Ltd,Customer
+C022,Natal Logistics (Pty) Ltd,Customer
+C023,Protea Pumps & Valves (Pty) Ltd,Customer
+C024,Baobab Engineering (Pty) Ltd,Customer
+C025,Karoo Plastics (Pty) Ltd,Customer
+C026,Waterberg Auto Parts (Pty) Ltd,Customer
+C027,Gauteng Hardware (Pty) Ltd,Customer
+C028,Waterberg Electrical (Pty) Ltd,Customer
+C029,Drakensberg Plastics (Pty) Ltd,Customer
+C030,Impala Packaging (Pty) Ltd,Customer
+C031,Natal Safety Wear (Pty) Ltd,Customer
+C032,Springbok Mining Supplies (Pty) Ltd,Customer
+C033,Highveld Electrical (Pty) Ltd,Customer
+C034,Drakensberg Fasteners (Pty) Ltd,Customer
+C035,Cape Tooling (Pty) Ltd,Customer
+C036,Springbok Safety Wear (Pty) Ltd,Customer
+C037,Kudu Plastics (Pty) Ltd,Customer
+C038,Waterberg Chemicals (Pty) Ltd,Customer
+C039,Limpopo Tooling (Pty) Ltd,Customer
+C040,Limpopo Mining Supplies (Pty) Ltd,Customer
+C041,Kudu Engineering (Pty) Ltd,Customer
+C042,Springbok Steel Traders (Pty) Ltd,Customer
+C043,Gauteng Safety Wear (Pty) Ltd,Customer
+C044,Impala Engineering (Pty) Ltd,Customer
+C045,Springbok Logistics (Pty) Ltd,Customer
+C046,Natal Auto Parts (Pty) Ltd,Customer
+C047,Cape Plastics (Pty) Ltd,Customer
+C048,Cape Fasteners (Pty) Ltd,Customer
+C049,Free State Packaging (Pty) Ltd,Customer
+C050,Highveld Auto Parts (Pty) Ltd,Customer
+C051,Limpopo Pumps & Valves (Pty) Ltd,Customer
+C052,Karoo Tooling (Pty) Ltd,Customer
+C053,Gauteng Logistics (Pty) Ltd,Customer
+C054,Drakensberg Industrial Gases (Pty) Ltd,Customer
+C055,Baobab Plastics (Pty) Ltd,Customer
+C056,Impala Safety Wear (Pty) Ltd,Customer
+C057,Waterberg Hardware (Pty) Ltd,Customer
+C058,Karoo Fasteners (Pty) Ltd,Customer
+C059,Cape Packaging (Pty) Ltd,Customer
+C060,Highveld Fasteners (Pty) Ltd,Customer
+C061,Impala Hardware (Pty) Ltd,Customer
+C062,Drakensberg Steel Traders (Pty) Ltd,Customer
+C063,Natal Mining Supplies (Pty) Ltd,Customer
+C064,Protea Auto Parts (Pty) Ltd,Customer
+C065,Highveld Steel Traders (Pty) Ltd,Customer
+C066,Waterberg Logistics (Pty) Ltd,Customer
+C067,Baobab Safety Wear (Pty) Ltd,Customer
+C068,Limpopo Auto Parts (Pty) Ltd,Customer
+C069,Protea Hardware (Pty) Ltd,Customer
+C070,Waterberg Plastics (Pty) Ltd,Customer
+C071,Waterberg Mining Supplies (Pty) Ltd,Customer
+C072,Karoo Hardware (Pty) Ltd,Customer
+C073,Baobab Hardware (Pty) Ltd,Customer
+C074,Free State Fasteners (Pty) Ltd,Customer
+C075,Springbok Auto Parts (Pty) Ltd,Customer
+C076,Limpopo Chemicals (Pty) Ltd,Customer
+C077,Limpopo Hardware (Pty) Ltd,Customer
+C078,Natal Packaging (Pty) Ltd,Customer
+C079,Highveld Plastics (Pty) Ltd,Customer
+C080,Impala Electrical (Pty) Ltd,Customer
+C081,Kudu Hardware (Pty) Ltd,Customer
+C082,Limpopo Fasteners (Pty) Ltd,Customer
+C083,Bushveld Safety Wear (Pty) Ltd,Customer
+C084,Eland Tooling (Pty) Ltd,Customer
+C085,Natal Electrical (Pty) Ltd,Customer
+C086,Free State Safety Wear (Pty) Ltd,Customer
+C087,Cape Safety Wear (Pty) Ltd,Customer
+C088,Highveld Mining Supplies (Pty) Ltd,Customer
+C089,Drakensberg Mining Supplies (Pty) Ltd,Customer
+C090,Free State Plastics (Pty) Ltd,Customer
+C091,Springbok Packaging (Pty) Ltd,Customer
+C092,Limpopo Electrical (Pty) Ltd,Customer
+C093,Waterberg Engineering (Pty) Ltd,Customer
+C094,Eland Safety Wear (Pty) Ltd,Customer
+C095,Bushveld Electrical (Pty) Ltd,Customer
+C096,Karoo Pumps & Valves (Pty) Ltd,Customer
+C097,Cape Electrical (Pty) Ltd,Customer
+C098,Impala Steel Traders (Pty) Ltd,Customer
+C099,Bushveld Pumps & Valves (Pty) Ltd,Customer
+C100,Kudu Logistics (Pty) Ltd,Customer
+C101,Cape Pumps & Valves (Pty) Ltd,Customer
+C102,Highveld Tooling (Pty) Ltd,Customer
+C103,Springbok Pumps & Valves (Pty) Ltd,Customer
+C104,Free State Tooling (Pty) Ltd,Customer
+C105,Natal Hardware (Pty) Ltd,Customer
+C106,Bushveld Steel Traders (Pty) Ltd,Customer
+C107,Gauteng Auto Parts (Pty) Ltd,Customer
+C108,Springbok Hardware (Pty) Ltd,Customer
+C109,Impala Industrial Gases (Pty) Ltd,Customer
+C110,Baobab Tooling (Pty) Ltd,Customer
+C111,Protea Steel Traders (Pty) Ltd,Customer
+C112,Highveld Packaging (Pty) Ltd,Customer
+C113,Impala Logistics (Pty) Ltd,Customer
+C114,Kudu Industrial Gases (Pty) Ltd,Customer
+C115,Free State Mining Supplies (Pty) Ltd,Customer
+C116,Highveld Hardware (Pty) Ltd,Customer
+C117,Natal Fasteners (Pty) Ltd,Customer
+C118,Gauteng Electrical (Pty) Ltd,Customer
+C119,Natal Tooling (Pty) Ltd,Customer
+C120,Bushveld Hardware (Pty) Ltd,Customer

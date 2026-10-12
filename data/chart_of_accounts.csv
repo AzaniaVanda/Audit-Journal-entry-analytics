@@ -1,0 +1,30 @@
+account_id,account_name,account_type,normal_balance,fs_line
+1000,Cash at Bank,Asset,Debit,Cash and cash equivalents
+1100,Trade Receivables,Asset,Debit,Trade and other receivables
+1200,Inventory,Asset,Debit,Inventory
+1300,Prepayments,Asset,Debit,Trade and other receivables
+1500,"Property, Plant & Equipment",Asset,Debit,"Property, plant and equipment"
+1590,Accumulated Depreciation,Asset,Credit,"Property, plant and equipment"
+2000,Trade Payables,Liability,Credit,Trade and other payables
+2100,VAT Control,Liability,Credit,Trade and other payables
+2200,Accruals,Liability,Credit,Trade and other payables
+2300,Payroll Liabilities,Liability,Credit,Trade and other payables
+2500,Long-term Loan,Liability,Credit,Borrowings
+3000,Share Capital,Equity,Credit,Equity
+3100,Retained Earnings,Equity,Credit,Equity
+4000,Sales - Products,Revenue,Credit,Revenue
+4100,Sales - Services,Revenue,Credit,Revenue
+4900,Other Income,Revenue,Credit,Other income
+5000,Cost of Sales,Expense,Debit,Cost of sales
+5100,Freight & Duties,Expense,Debit,Cost of sales
+6000,Salaries & Wages,Expense,Debit,Operating expenses
+6100,Rent,Expense,Debit,Operating expenses
+6200,Utilities,Expense,Debit,Operating expenses
+6300,Professional Fees,Expense,Debit,Operating expenses
+6400,Travel & Entertainment,Expense,Debit,Operating expenses
+6500,Depreciation Expense,Expense,Debit,Operating expenses
+6600,Repairs & Maintenance,Expense,Debit,Operating expenses
+6700,Marketing,Expense,Debit,Operating expenses
+6800,Bank Charges,Expense,Debit,Operating expenses
+7000,Interest Expense,Expense,Debit,Finance costs
+9999,Suspense / Clearing,Asset,Debit,Unclassified
